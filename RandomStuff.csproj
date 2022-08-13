@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>BerryLoader</AssemblyName>
-    <Description>Stacklands modloader and modding framework</Description>
+    <AssemblyName>RandomStuff</AssemblyName>
+    <Description>Random Ideas</Description>
     <Version>1.0.0</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
